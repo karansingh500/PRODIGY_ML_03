@@ -17,6 +17,12 @@ Full dataset (no `--limit`), 96×96, `C=1`:
 | Cat precision / recall | 0.70 / 0.69 |
 | Dog precision / recall | 0.69 / 0.70 |
 
+### Evaluation Graphs
+
+![Confusion Matrix](reports/confusion_matrix.png)
+
+![Sample Predictions](reports/sample_predictions.png)
+
 ## Setup
 
 ```powershell
